@@ -1,0 +1,15 @@
+{
+  "name": "poc-001",
+  "version": "1.0.0",
+  "description": "POC for Chess app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reed Fenno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
